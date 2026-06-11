@@ -1,0 +1,6 @@
+This is a new file created using the with statement.This is a new file created using the with statement.
+This file is used to demonstrate the with statement for file handling in Python.
+The with statement ensures that the file is properly closed after its suite finishes, even if an exception is raised.
+This is a new file created using the with statement.
+This file is used to demonstrate the with statement for file handling in Python.
+The with statement ensures that the file is properly closed after its suite finishes, even if an exception is raised.
